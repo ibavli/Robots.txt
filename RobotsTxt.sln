@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotsTxt", "RobotsTxt\RobotsTxt.csproj", "{F84E0354-587D-4705-B0EB-04E338A75107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84E0354-587D-4705-B0EB-04E338A75107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84E0354-587D-4705-B0EB-04E338A75107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84E0354-587D-4705-B0EB-04E338A75107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84E0354-587D-4705-B0EB-04E338A75107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD02505-6AD7-4384-A57F-56D3EF9E4B13}
+	EndGlobalSection
+EndGlobal
